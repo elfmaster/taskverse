@@ -1,0 +1,1 @@
+cmd_/home/ryan/git/taskverse/kernobj/kernobjs.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-3.13.0-46-generic/scripts/module-common.lds --build-id  -o /home/ryan/git/taskverse/kernobj/kernobjs.ko /home/ryan/git/taskverse/kernobj/kernobjs.o /home/ryan/git/taskverse/kernobj/kernobjs.mod.o
