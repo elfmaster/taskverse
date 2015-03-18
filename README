@@ -4,6 +4,8 @@
 taskverse lists all processes (Including hidden ones)
 and points out if a process appears to be hidden.
 
+NOTE: ONLY TESTED ON Ubuntu 14 32bit and 64bit (And very little)
+
 - Install
 make
 make install
